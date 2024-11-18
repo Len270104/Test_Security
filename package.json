@@ -5,12 +5,12 @@
     "author": "vautia",
     "dependencies": {
         "bcryptjs": "^2.4.3",
-        "cookie-parser": "^1.4.6",
-        "express": "^4.19.2",
+        "cookie-parser": "^1.4.7",
+        "express": "^4.21.1",
         "jsonwebtoken": "^9.0.0",
         "jsrender": "^1.0.12",
-        "node.extend": "1.1.6",
-        "nodemon": "^2.0.20",
+        "node.extend": "1.1.7",
+        "nodemon": "^3.0.0",
         "path": "^0.12.7",
         "sequelize": "^6.28.0",
         "sqlite3": "^5.1.4"
